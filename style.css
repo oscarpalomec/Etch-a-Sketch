@@ -1,0 +1,12 @@
+h1 {
+    color: rgb(0, 45, 128);
+    text-align: center;
+}
+
+#container {
+    margin: auto;
+    width:960px;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
