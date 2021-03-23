@@ -5,8 +5,30 @@ h1 {
 
 #container {
     margin: auto;
-    width:960px;
+    width:35rem;
+    height: 35rem;
     display: flex;
     flex-wrap: wrap;
+    margin-top: 2rem;
+    border: 1px solid black;
+
+   
+}
+
+button {
+    margin: auto;
+}
+
+body {
+    text-align: center;
+    background-color: #ECF4F1;
+}
+
+.square {
+    width: 50%;
+    height: 50%;
+    background-color: aqua;
+    box-sizing: border-box;
+    border: 1px solid black;
    
 }
